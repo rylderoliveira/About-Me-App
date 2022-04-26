@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="avatar_image">Avatar image</string>
+    <string name="salvar">SALVAR</string>
+</resources>
